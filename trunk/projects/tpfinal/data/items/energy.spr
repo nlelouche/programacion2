@@ -1,0 +1,19 @@
+[SPRITE]
+Filename="data/items/energy.png" ; Ubicación del bitmap
+ColorKey=4294967295	 ; Color que deseamos que sea transparente	
+FramesCount=1		 ; Cantidad de cuadros de animación en total
+FrameWidth=16		 ; Ancho de cada frame
+FrameHeight=16		 ; Alto de cada frame
+FramesCountPerWidth=1	 ; Cantidad de cuadros que hay a lo ancho
+PosX=0			 ; Posición inicial
+PosY=0
+Width=16		 ; Ancho y alto del sprite en pantalla
+Height=16
+ScaleX=1.0		 ; Escala
+ScaleY=1.0
+Visible=true		 ; Visible o no
+CheckCollision=false	 ; Activa el chequeo de colisión
+CollisionVisible=false 	 ; Area de colisión visible o no
+CollisionWidth=25	 ; Ancho de la colisión
+CollisionHeight=25	 ; Alto de la colisión
+Persist=false		 ; Persistencia de la textura en memoria ram o no

@@ -1,0 +1,8 @@
+[SPRITE_ANIMATION]
+FramesCount=2	; Cantidad de cuadros de la animación
+
+Frame0=10	; FrameX de la animación = frame Y en el bitmap
+Frame1=15
+
+Speed=100	; Velocidad de la animación (ms)
+Looped=false	; Si vuelve a iniciar automaticamente una vez que finalizó
