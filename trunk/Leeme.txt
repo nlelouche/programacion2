@@ -1,2 +1,24 @@
 mariano la puta que te pario
 vos forro, no pises nada.
+
+
+--------------------------------------
+
+Consignas del TP
+
+Hay que poner 
+
+
+3 Personajes:
+
+	(con 5 acciones)
+	- Walk
+	- Idle
+	- Ataque / punch
+	- 2 Acciones mas
+
+
+Desarrollar 5 items
+
+
+* Opcional uno de los ataques que sea a distancia
