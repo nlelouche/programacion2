@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arkanoid", "tpfinal\tpfinal.vcproj", "{894D73CC-AFC9-46B9-A1DE-863A0E5C361F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{894D73CC-AFC9-46B9-A1DE-863A0E5C361F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{894D73CC-AFC9-46B9-A1DE-863A0E5C361F}.Debug|Win32.Build.0 = Debug|Win32
+		{894D73CC-AFC9-46B9-A1DE-863A0E5C361F}.Release|Win32.ActiveCfg = Release|Win32
+		{894D73CC-AFC9-46B9-A1DE-863A0E5C361F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
